@@ -1,0 +1,68 @@
+# Blender MTL File: 'BB_013.blend'
+# Material Count: 6
+
+newmtl BB_009_001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd P:\Documents\wymiana\BB\FreeStuff\BUKIETY\single\s16_Aspidistra\tex\s16_Aspidistra.png
+map_d P:\\Documents\\wymiana\\BB\\FreeStuff\\BUKIETY\\single\\s16_Aspidistra\\tex\\s16_Aspidistra.png
+
+newmtl BB_009_001_BB_009_004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd P:\Documents\wymiana\BB\FreeStuff\BUKIETY\single\s18_Trawa\tex\s18_Trawa.png
+map_d P:\\Documents\\wymiana\\BB\\FreeStuff\\BUKIETY\\single\\s16_Aspidistra\\tex\\s16_Aspidistra.png
+
+newmtl BB_009_002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd P:\Documents\wymiana\BB\FreeStuff\BUKIETY\single\s05_Santini\tex\s05_Santini.png
+
+newmtl BB_009_002_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl BB_009_003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl BB_009_004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd P:\BlenderBoom\BB_009\textures\tutka.jpg
