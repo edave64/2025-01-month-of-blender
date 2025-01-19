@@ -1,0 +1,17 @@
+Base Color:
+    File: Blue_Marble_2002_8k.webp
+    Source: https://visibleearth.nasa.gov/images/57752/blue-marble-land-surface-shallow-water-and-shaded-topography
+    By: NASA
+    Licence: Public Domain
+
+Elevation:
+    File: gebco_08_rev_elev_8k.webp
+    Source: https://visibleearth.nasa.gov/images/73934/topography/84331l
+    By: NASA & British Oceanographic Data Centre
+    Licence: Public Domain
+
+Clouds:
+    File: cloud_combined_8k.webp
+    Source: https://visibleearth.nasa.gov/images/57747/blue-marble-clouds
+    By: NASA
+    Licence: Public Domain
